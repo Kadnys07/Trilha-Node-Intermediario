@@ -1,0 +1,12 @@
+{
+  "database": {
+    "host": "localhost teste",
+    "port": 5432,
+    "user": "admin"
+  },
+  "api_key": "abc-123-def-456",
+  "features": {
+    "enable_logging": true,
+    "max_users": 1000
+  }
+}
